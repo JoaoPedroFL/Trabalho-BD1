@@ -108,6 +108,8 @@ sqlite3 worldcup.db < consultas_copa_mundo.sql
 sqlite3 worldcup.db "SELECT * FROM WorldCups ORDER BY GoalsScored DESC;"
 ```
 
-## 📦 Fonte dos Dados
 
-Dados históricos da Copa do Mundo FIFA (1930–2014).
+
+
+
+
