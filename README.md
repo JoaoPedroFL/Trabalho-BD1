@@ -2,7 +2,7 @@
 
 Projeto acadêmico com banco de dados relacional da Copa do Mundo e 15 consultas SQL analíticas.
 
-## 🎓 2. Certificados DataCamp
+## 🎓 Certificados DataCamp
 Clique aqui para visualizar o Certificado de Nivelamento SQL
 https://drive.google.com/drive/folders/1a6hV053YtCktDCEf7pic9rCFHWafse-h?usp=sharing
 
